@@ -1,0 +1,452 @@
+[
+    {
+        "method": "iterative",
+        "time_s": 0.015495541971176863,
+        "cpu_s": 0.016028000000005704,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.015137583017349243,
+        "cpu_s": 0.0151599999999803,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.00999304186552763,
+        "cpu_s": 0.00997499999999718,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.0016582498792558908,
+        "cpu_s": 0.001658999999989419,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.010229999898001552,
+        "cpu_s": 0.010219000000006417,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.01099724997766316,
+        "cpu_s": 0.01089600000000246,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.013913707807660103,
+        "cpu_s": 0.013805999999988217,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.010213959030807018,
+        "cpu_s": 0.01021399999999062,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.0019794171676039696,
+        "cpu_s": 0.001979000000005726,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.008813000051304698,
+        "cpu_s": 0.00879399999999464,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.014159000013023615,
+        "cpu_s": 0.014160000000003947,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 1000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.01764566614292562,
+        "cpu_s": 0.017631000000022823,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 1000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.013424291973933578,
+        "cpu_s": 0.013376000000022259,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 1000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.0030215841252356768,
+        "cpu_s": 0.003019999999992251,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 1000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.010362791130319238,
+        "cpu_s": 0.010345999999998412,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 1000000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.017591708106920123,
+        "cpu_s": 0.01760800000002405,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.02234770799987018,
+        "cpu_s": 0.022401000000002114,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.01829524990171194,
+        "cpu_s": 0.018086000000010927,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.005146458046510816,
+        "cpu_s": 0.004985000000004902,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.012501958059147,
+        "cpu_s": 0.01248100000000818,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 10000000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.020719584077596664,
+        "cpu_s": 0.020688000000006923,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 20000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.026297167176380754,
+        "cpu_s": 0.026019999999988386,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 20000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.019301624968647957,
+        "cpu_s": 0.01924199999999132,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 20000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.005066874902695417,
+        "cpu_s": 0.005068000000022721,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 20000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.014864250086247921,
+        "cpu_s": 0.01482599999999934,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 20000000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.02461237506940961,
+        "cpu_s": 0.024652000000003227,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 50000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.031225332990288734,
+        "cpu_s": 0.03098099999999704,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 50000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.026418374851346016,
+        "cpu_s": 0.026233000000019047,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 50000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.006368499947711825,
+        "cpu_s": 0.006348000000002685,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 50000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.020825416082516313,
+        "cpu_s": 0.020711000000005697,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 50000000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.0232485830783844,
+        "cpu_s": 0.023246000000000322,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.03300841595046222,
+        "cpu_s": 0.03237200000000939,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.023536665830761194,
+        "cpu_s": 0.023505999999997584,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.006912166019901633,
+        "cpu_s": 0.006879999999995334,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.021985250059515238,
+        "cpu_s": 0.021923000000015236,
+        "mem_before_bytes": 7762733957120,
+        "mem_after_bytes": 7762733957120,
+        "queries": 10000,
+        "array_size": 100000000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.06776641681790352,
+        "cpu_s": 0.06751399999998853,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 200000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.03159633418545127,
+        "cpu_s": 0.03155000000000996,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 200000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.024890708038583398,
+        "cpu_s": 0.024814999999989595,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 200000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.007686584023758769,
+        "cpu_s": 0.007687000000004218,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 200000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.038596499944105744,
+        "cpu_s": 0.03844799999998827,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 200000000
+    },
+    {
+        "method": "iterative",
+        "time_s": 0.3192234591115266,
+        "cpu_s": 0.15341499999999542,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 500000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.03358424990437925,
+        "cpu_s": 0.032994999999999663,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 500000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.026109416969120502,
+        "cpu_s": 0.02608000000000743,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 500000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.009600625140592456,
+        "cpu_s": 0.009028999999998177,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 500000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 0.3520084589254111,
+        "cpu_s": 0.08290800000000331,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 500000000
+    },
+    {
+        "method": "iterative",
+        "time_s": 5.985466875135899,
+        "cpu_s": 0.5238140000000158,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 1000000000
+    },
+    {
+        "method": "recursive",
+        "time_s": 0.04239070904441178,
+        "cpu_s": 0.040275000000008276,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 1000000000
+    },
+    {
+        "method": "localvars",
+        "time_s": 0.032386249862611294,
+        "cpu_s": 0.032157000000012204,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 1000000000
+    },
+    {
+        "method": "bisect",
+        "time_s": 0.01666516694240272,
+        "cpu_s": 0.01077000000000794,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 1000000000
+    },
+    {
+        "method": "numpy",
+        "time_s": 4.69544041599147,
+        "cpu_s": 0.3060429999999883,
+        "mem_before_bytes": 7891717193728,
+        "mem_after_bytes": 7891717193728,
+        "queries": 10000,
+        "array_size": 1000000000
+    }
+]
